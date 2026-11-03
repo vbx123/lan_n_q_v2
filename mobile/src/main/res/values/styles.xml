@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Remote" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#101420</item>
+        <item name="android:statusBarColor">#101420</item>
+        <item name="android:navigationBarColor">#101420</item>
+    </style>
+</resources>
